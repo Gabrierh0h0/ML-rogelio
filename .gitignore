@@ -1,0 +1,11 @@
+# Solo se suben los notebooks, los datos y los notebooks exportados a HTML
+*
+!.gitignore
+!pipeline_asteroides.ipynb
+!catalogo_jpl_asteroides.ipynb
+!nasa.csv
+!sbdb_neos.csv
+!resultados/
+resultados/*
+!resultados/pipeline_asteroides.html
+!resultados/catalogo_jpl_asteroides.html
